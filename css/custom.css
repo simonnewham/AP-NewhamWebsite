@@ -1,0 +1,47 @@
+footer{
+    padding:10px 0px;
+
+}	       
+
+footer ul li{
+    padding:2px 0px;
+}
+
+.adress span , .contact span , .social span{
+   color: #FFF; 
+   font-weight: 700; 
+   padding-bottom: 2px; 
+   margin-bottom: 2px;
+   display: block;
+   font-size: 20px;
+   letter-spacing: 2px;
+}
+ 
+.adress li p , .contact li a , .social li a{
+    color:#FFF;
+    letter-spacing: 1px;
+    text-decoration:none;
+    font-size:15px;
+    margin-bottom: 2px;
+}
+
+.social li{
+    float:left;
+}
+
+.adress , .contact , .social {
+    list-style: none;
+}
+
+.customContent{
+    height: 100%;
+    width: 100%;
+    background-image: url();
+    background-repeat: no-repeat;
+        
+}
+
+#bodyTemp{
+ 
+
+}
